@@ -8,3 +8,8 @@ subtitles/*
 *.mp4
 *.log
 *.pyc
+./tools/*
+*.h
+tools/venv/*
+*.txt
+*.pdf

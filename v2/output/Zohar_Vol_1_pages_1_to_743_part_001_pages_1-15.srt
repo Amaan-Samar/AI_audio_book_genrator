@@ -1,0 +1,570 @@
+1
+00:00:00,000 --> 00:00:07,725
+The translation and publication of the
+Zohar is made possible through the
+thoughtful and generous support of the
+Pritzker Family Philanthropic Fund.
+
+2
+00:00:07,725 --> 00:00:14,612
+The administrative support to this project
+in its initial period by the Graduate
+Theological Union is gratefully
+acknowledged.
+
+3
+00:00:14,612 --> 00:00:27,724
+Stanford University Press, Stanford,
+California 2004 by Zohar Education
+Project, Inc. All rights reserved. For
+further information, including the Aramaic
+text of the Zohar, please visit www. sup.
+
+4
+00:00:27,724 --> 00:00:38,799
+org/zohar Library of Congress
+Cataloging-in-Publication Data for Printed
+Edition Zohar. English. The
+Zohar/translation and commentary by Daniel
+C. Matt. Pritzker ed. v. cm.
+
+5
+00:00:38,799 --> 00:01:00,549
+Text includes some words in Hebrew and
+Aramaic. Includes bibliographical
+references. ISBN 978-0-8047-4747-9
+(cloth)-- ISBN 978-0-8047-7133-7
+(electronic) (vol. 1) 1. Bible. O. T.
+
+6
+00:01:00,549 --> 00:01:16,136
+Pentateuch Commentaries Early works to
+1800. 2. Cabala-Early works to 1800. 3.
+Zohar. I. Matt, Daniel Chanan. II. Title.
+BM525. A52 M37 2003 296.
+
+7
+00:01:16,136 --> 00:01:50,511
+1 62 dc22 2003014884 To Margot Academic
+Committee for the Translation of the Zohar
+Daniel Abrams Bar-Ilan University Joseph
+Dan Hebrew University Rachel Elior Hebrew
+University Asi Farber-Ginat University of
+Haifa Michael Fishbane University of
+Chicago Pinchas Giller University of
+Judaism Amos Goldreich Tel Aviv University
+Moshe Hallamish Bar-Ilan University Melila
+Hellner-Eshed Hebrew University Boaz Huss
+Ben-Gurion University Moshe Idel Hebrew
+University Esther Liebes Gershom Scholem
+Collection
+
+8
+00:01:50,511 --> 00:02:00,423
+Jewish National and University Library
+Yehuda Liebes Hebrew University Bernard
+McGinn University of Chicago Ronit Meroz
+Tel Aviv University Charles Mopsik
+
+9
+00:02:00,423 --> 00:02:10,023
+Centre National de la Recherche
+Scientifique Michal Oron Tel Aviv
+University aviva Pedaya Ben-Gurion
+University Bracha Sack Ben-Gurion
+University Elliot R.
+
+10
+00:02:10,023 --> 00:02:22,123
+Wolfson New York University Arthur Green
+Co-Chair Brandeis University Rabbi Yehiel
+Poupko Co-Chair Jewish Federation of
+Chicago Margot Pritzker Chair, Zohar
+Education Project, Inc. Daniel C.
+
+11
+00:02:22,123 --> 00:02:31,460
+Matt Translator, Zohar Education Project,
+Inc. Contents Diagram of the Ten Sefirot
+Foreword MARGOT PRITZKER Translator s
+Introduction DANIEL C.
+
+12
+00:02:31,460 --> 00:02:47,022
+MATT Acknowledgments Introduction ARTHUR
+GREEN Haqdamat Sefer ha-Zohar Parashat
+Be-Reshit (Genesis 1: 1 6: 8) Parashat Noa
+(Genesis 6: 9 11: 32) Abbreviations
+Transliteration of Hebrew and Aramaic
+Glossary Bibliography Index of Sources
+Foreword
+
+13
+00:02:47,022 --> 00:02:57,622
+I began to study the Torah. As my facility
+with the text grew, I pursued SOME YEARS
+AGO the midrashic literature of the
+rabbis, and the interpretations of the
+classic medieval commentators.
+
+14
+00:02:57,622 --> 00:03:06,122
+Eventually, I began to inquire about
+mystical commentaries on the Torah. I
+turned to the Zohar, seeking an English
+translation of its original Aramaic.
+
+15
+00:03:06,122 --> 00:03:13,372
+I soon learned that previous translations
+not only were incomplete but also had been
+undertaken in the early twentieth century.
+
+16
+00:03:13,372 --> 00:03:19,697
+Therefore, they did not reflect the
+enormous advances in scholarship since
+made by Gershom Scholem and his students.
+
+17
+00:03:19,697 --> 00:03:29,647
+It was at this point that I realized how
+much I wanted to be able to study the
+Zohar from an English translation that
+would draw upon the research and
+scholarship of the past half-century.
+
+18
+00:03:29,647 --> 00:03:37,984
+I determined to sponsor such a
+translation; the book you hold in your
+hands is the result. By its nature and
+purpose, the Zohar is difficult to
+penetrate.
+
+19
+00:03:37,984 --> 00:03:41,234
+For hundreds of years it was inaccessible
+to all but a few.
+
+20
+00:03:41,234 --> 00:03:52,346
+Furthermore, after the Sabbatean episode
+of the seventeenth century, the Jewish
+community became concerned about the
+potency of mystical ideas; leaders were
+anything but eager to promulgate the
+Zohar.
+
+21
+00:03:52,346 --> 00:03:59,596
+Even with the rise of Hasidism as a
+mystically based movement starting in the
+eighteenth century, the Zohar remained a
+closed book.
+
+22
+00:03:59,596 --> 00:04:09,508
+Consequently, bringing the Zohar to the
+English-reading public was and continues
+to be a complex, challenging task. The
+words that can express my appreciation to
+Daniel C.
+
+23
+00:04:09,508 --> 00:04:18,845
+Matt are found on every page of his
+translation of the Zohar. His scholarship,
+his artistry, and his poetry speak for
+themselves. You, the reader, are in his
+debt.
+
+24
+00:04:18,845 --> 00:04:28,982
+The odyssey of the past nine years, which
+will continue for some years to come, has
+been shepherded through a tangle of legal
+and administrative steps with the able and
+devoted skill of Glen Miller.
+
+25
+00:04:28,982 --> 00:04:37,882
+Professor Arthur Green, who co-chairs the
+Academic Committee for the Translation of
+the Zohar, has been a thoughtful and
+faithful counselor from the inception of
+the project.
+
+26
+00:04:37,882 --> 00:04:44,019
+My husband Tom, while not a student of the
+Zohar, recognized the magnitude and the
+importance of this project.
+
+27
+00:04:44,019 --> 00:04:49,731
+He has kept us ever vigilant and focused
+with his insightful questions and thoughts
+and his constant support.
+
+28
+00:04:49,731 --> 00:04:58,481
+From conception through gestation and
+finally to birth, this project would not
+have been realized without the wisdom,
+knowledge, and nurturing of Rabbi Yehiel
+Poupko.
+
+29
+00:04:58,481 --> 00:05:03,493
+He is my teacher and my friend, and it is
+to him that this edition of the Zohar is
+dedicated.
+
+30
+00:05:03,493 --> 00:05:12,180
+It is with a sense of fulfillment and awe
+for Daniel Matt s remarkable
+accomplishment that my family and I now
+present the Zohar to the English- reading
+public
+
+31
+00:05:12,180 --> 00:05:22,667
+with the hope that the radiance that flows
+from this great work and from the Jewish
+mystical tradition will bring light to
+those who seek it. Margot Pritzker
+Translator s Introduction DANIEL C.
+
+32
+00:05:22,667 --> 00:05:33,067
+MATT (The Book of Radiance)1 has amazed
+and overwhelmed readers ever SEFER
+HA-ZOHAR since it emerged mysteriously in
+medieval Spain (Castile) toward the end of
+the thirteenth century.
+
+33
+00:05:33,067 --> 00:05:43,017
+Written mostly in a unique Aramaic, this
+masterpiece of Kabbalah exceeds the
+dimensions of a normal book; it is
+virtually a body of literature, comprising
+over twenty discrete sections.
+
+34
+00:05:43,017 --> 00:05:48,479
+The bulk of the Zohar consists of a
+running commentary on the Torah, from
+Genesis through Deuteronomy.
+
+35
+00:05:48,479 --> 00:05:56,516
+This translation begins and focuses there
+in what are projected to be ten volumes;
+two subsequent volumes will cover other,
+shorter sections.
+
+36
+00:05:56,516 --> 00:06:06,916
+2 Arthur Green s introduction to this
+volume traces the development of Kabbalah
+and discusses the historical and literary
+context of the Zohar its style the complex
+question of authorship
+
+37
+00:06:06,916 --> 00:06:16,353
+and the symbolism of the ten sefirot
+(various aspects of the divine Self). Here
+I wish to treat several topics directly
+related to this translation and
+commentary.
+
+38
+00:06:16,353 --> 00:06:26,915
+Establishing the Text of the Zohar This
+edition reflects a newly constructed,
+precise text of the Zohar, based on
+original manuscripts. Why was the creation
+of such a text necessary?
+
+39
+00:06:26,915 --> 00:06:35,540
+All previous translations of the Zohar are
+based on the standard printed editions
+which nearly all derive from the Mantua
+edition (1558 60)
+
+40
+00:06:35,540 --> 00:06:40,602
+supplemented by variant readings from the
+Cremona edition (1559 60).
+
+41
+00:06:40,602 --> 00:06:50,214
+At first I intended to follow the same
+procedure but upon examining many of the
+original manuscripts of the Zohar dating
+from the fourteenth through sixteenth
+centuries
+
+42
+00:06:50,214 --> 00:06:57,539
+I discovered a significant number of
+superior readings that had been rejected
+or revised by editors of the first printed
+editions.
+
+43
+00:06:57,539 --> 00:07:04,201
+Upon further examination, I noticed
+something more intriguing a phenomenon
+familiar to scholars of medieval texts.
+
+44
+00:07:04,201 --> 00:07:10,826
+Within the manuscripts themselves were
+signs of an editorial process: revision,
+reformulation, and emendation.
+
+45
+00:07:10,826 --> 00:07:20,951
+3 After careful analysis, I concluded that
+certain manuscripts of older lineage
+reflect an earlier version of the Zohar,
+which was then reworked in manuscripts of
+later lineage.
+
+46
+00:07:20,951 --> 00:07:27,438
+4 I realized that I could no longer rely
+on the printed editions of the Zohar,
+since these obscured earlier versions.
+
+47
+00:07:27,438 --> 00:07:36,725
+So I took it upon myself to reconstruct a
+new-ancient version of the Aramaic text
+based on the manuscripts, one which could
+serve as the foundation for this
+translation.
+
+48
+00:07:36,725 --> 00:07:42,925
+If I could have located a complete,
+reliable manuscript of the Zohar, this
+would have provided a starting point.
+
+49
+00:07:42,925 --> 00:07:52,187
+Unfortunately no such manuscript exists
+anywhere in the world; in all likelihood
+it never did, since from the start the
+Zohar was circulated in sections or
+booklets.
+
+50
+00:07:52,187 --> 00:08:01,724
+Probably no single complete Book of the
+Zohar existed until it was printed nearly
+three hundred years later in the sixteenth
+century, collated from various
+manuscripts.
+
+51
+00:08:01,724 --> 00:08:12,899
+5 This situation left me with two choices.
+I could select the best manuscript for
+each individual Torah portion of the Zohar
+and produce a diplomatic text, an exact
+reproduction of the original.
+
+52
+00:08:12,899 --> 00:08:18,799
+Or, I could fashion a critical text,
+selecting from a wide range of variants in
+different manuscripts.
+
+53
+00:08:18,799 --> 00:08:29,411
+After consulting with members of our
+Academic Committee for the Translation of
+the Zohar, I chose to compose a critical
+text, based on a selection and evaluation
+of the manuscript readings.
+
+54
+00:08:29,411 --> 00:08:38,523
+The primary reason was simply that even
+for individual sections of the Zohar there
+is no one best manuscript: each has its
+own deficiencies and scribal errors.
+
+55
+00:08:38,523 --> 00:08:47,710
+Back in the sixteenth century, the editors
+in Mantua and Cremona also fashioned
+critical texts, the former drawing on ten
+manuscripts, the latter on six.
+
+56
+00:08:47,710 --> 00:08:58,985
+6 For the first two volumes of the
+translation, I identified approximately
+twenty reliable manuscripts, based on the
+criteria of provenance, age, lack of
+scribal errors, and legibility.
+
+57
+00:08:58,985 --> 00:09:07,410
+The originals are preserved in the
+libraries of Oxford Cambridge London Paris
+Munich Rome the Vatican Parma Toronto and
+the Jewish Theological Seminary
+
+58
+00:09:07,410 --> 00:09:18,197
+while microfilm copies are available in
+the Institute for Microfilmed Hebrew
+Manuscripts in the Jewish National and
+University Library on the campus of the
+Hebrew University Jerusalem.
+
+59
+00:09:18,197 --> 00:09:23,647
+7 It is appropriate to describe more fully
+the methodology used in this scholarly
+undertaking.
+
+60
+00:09:23,647 --> 00:09:35,309
+My research assistant meticulously combs
+through about half of these manuscripts
+and prepares a list of variant readings.
+For particularly difficult words or
+phrases, we check additional manuscripts.
+
+61
+00:09:35,309 --> 00:09:46,671
+In addition to the manuscripts my
+assistant lists variants from the Mantua
+and Cremona editions of the Zohar as well
+as the edition used by Moses Cordovero in
+his sixteenth- century commentary
+
+62
+00:09:46,671 --> 00:09:50,996
+Or Yaqar. 8 My procedure for establishing
+the Aramaic text is as follows.
+
+63
+00:09:50,996 --> 00:10:02,283
+I begin with Reuven Margaliot s edition of
+Sefer ha-Zohar, 9 based on the Vilna
+edition, which in turn is based on the
+Mantua edition. This represents a
+relatively reliable starting point.
+
+64
+00:10:02,283 --> 00:10:13,958
+In front of me I have the list of variants
+prepared by my research assistant,
+photocopies of the original manuscripts,
+and other witnesses referred to
+previously. 10 I peruse the variants line
+by line.
+
+65
+00:10:13,958 --> 00:10:19,595
+Some of these are simply scribal errors or
+glosses, but some represent what appear to
+be better readings.
+
+66
+00:10:19,595 --> 00:10:30,707
+When I identify an apparently better
+reading, I check if it is shared and
+confirmed by several reliable manuscripts
+and witnesses. If it is, I consider
+substituting it for the printed text.
+
+67
+00:10:30,707 --> 00:10:39,794
+Over the centuries Sefer ha-Zohar has been
+revised by countless scribes and editors
+who tried to smooth away the rough edges
+of the text by adding an explanatory
+phrase
+
+68
+00:10:39,794 --> 00:10:46,619
+correcting an apparent syntactical mistake
+or taming a wild neologism by substituting
+a more familiar bland term.
+
+69
+00:10:46,619 --> 00:10:57,894
+Often, relying on the variants, I decide
+to remove these accumulated layers of
+revision, thereby restoring a more
+original text. I seek to recover the Zohar
+s primal texture and cryptic flavor.
+
+70
+00:10:57,894 --> 00:11:08,231
+If the early manuscripts preserve unusual,
+striking wording that is revised or
+corrected by several later manuscripts and
+the printed editions, I tend to go with
+the older reading.
+
+71
+00:11:08,231 --> 00:11:14,981
+Often, according to the more reliable
+manuscripts, a Zoharic rabbi creatively
+paraphrases a Talmudic saying.
+
+72
+00:11:14,981 --> 00:11:21,393
+Some of the later manuscripts and the
+printed editions may then restore this
+saying to its exact Talmudic form.
+
+73
+00:11:21,393 --> 00:11:29,155
+In such cases I emend the printed text in
+favor of the Zohar s original formulation
+original in both senses: older and
+creative.
+
+74
+00:11:29,155 --> 00:11:37,630
+In the commentary I cite the Talmudic
+saying on which the paraphrase is based,
+so that readers can see the transition and
+trace the imaginative process.
+
+75
+00:11:37,630 --> 00:11:48,180
+I do not claim to be fully restoring the
+original text of the Zohar. There may
+never have been any such thing, since the
+text probably emerged over many years,
+written and distributed piecemeal.
+
+76
+00:11:48,180 --> 00:11:58,930
+However, through painstaking analysis of
+the variants, I am able to scrape away
+some seven hundred years of accretion and
+corruption, and at least approach that
+elusive, hypothetical original.
+
+77
+00:11:58,930 --> 00:12:07,430
+This Aramaic text of the Zohar, the basis
+of my translation, is available for study
+and scholarly examination. 11 Translation
+and Commentary

@@ -1,0 +1,10 @@
+{
+    "default_pages_per_file": 15,
+    "default_output_dir": "output_text",
+    "audio_speed_wpm": 150,
+    "clean_text": true,
+    "remove_headers_footers": true,
+    "preserve_page_numbers": false,
+    "supported_extensions": [".pdf"],
+    "max_file_size_mb": 500
+}
