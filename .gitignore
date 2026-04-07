@@ -13,3 +13,4 @@ subtitles/*
 tools/venv/*
 *.txt
 *.pdf
+*.srt
