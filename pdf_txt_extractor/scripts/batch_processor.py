@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 from typing import Optional
-from tts_project.pdf_audio_extractor.scripts.pdf_extractor import PDFToAudioText, logger  # Changed from .pdf_extractor
+from pdf_extractor import PDFToAudioText, logger  # Changed from .pdf_extractor
 
 class BatchPDFProcessor:
     """Process multiple PDFs for audio text extraction"""

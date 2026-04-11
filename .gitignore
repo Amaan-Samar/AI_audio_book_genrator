@@ -14,3 +14,7 @@ tools/venv/*
 *.txt
 *.pdf
 *.srt
+pdf_txt_extractor/.DS_Store
+.gitignore
+*.vtt
+*.DS_Store

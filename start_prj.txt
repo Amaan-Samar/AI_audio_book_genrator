@@ -3,7 +3,7 @@ tts_env\Scripts\activate
 
 pypinyin 
 
-conda activate tts
+conda activate tools/venv 
 
 ffmpeg -stream_loop -1 -i "C:\Users\Amaan\Videos\Screen Recordings\Screen Recording 2025-12-19 151642.mp4" -i "C:\Users\Amaan\Documents\github_projects\tts_project\fastspeech2_aishell\epstine.wav" -map 0:v -map 1:a -shortest -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 192k epstine.mp4
 
