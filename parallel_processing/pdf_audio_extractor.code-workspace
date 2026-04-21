@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../pdf_audio_extractor"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../test"
+		}
+	],
+	"settings": {}
+}

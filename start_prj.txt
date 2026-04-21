@@ -3,12 +3,17 @@ tts_env\Scripts\activate
 
 pypinyin 
 
-conda activate tts
+conda activate tools/venv 
 
 ffmpeg -stream_loop -1 -i "C:\Users\Amaan\Videos\Screen Recordings\Screen Recording 2025-12-19 151642.mp4" -i "C:\Users\Amaan\Documents\github_projects\tts_project\fastspeech2_aishell\epstine.wav" -map 0:v -map 1:a -shortest -c:v libx264 -preset medium -crf 23 -c:a aac -b:a 192k epstine.mp4
 
 
 
-python main.py --file "C:\Users\Amaan\Documents\github_projects\tts_project\data\subtitles\the_pickme.txt" --output "C:\Users\Amaan\Documents\github_projects\tts_project\data\subtitles\the_pickme.wav" --profile default
+python main.py --file "/Users/Farmdar/Documents/github/pdf_audio_extractor/output_text/Zohar_Vol_1_pages_1_to_743_part_001_pages_1-15.txt" --output "./zohar_1.wav" --profile default
 
 
+python main.py --file "/Users/Farmdar/Documents/github/pdf_audio_extractor/output_text/Zohar_Vol_1_pages_1_to_743_part_001_pages_1-15.txt" --output Zohar_Vol_1_pages_1_to_743_part_001_pages_1-15.wav --profile en_female_2
+
+
+
+python main.py --file "/Users/Farmdar/Documents/github/tts_project/pdf_audio_extractor/output_text/Zohar_Vol_1_pages_1_to_743_part_002_pages_16-30.txt" --output ./output/Zohar_Vol_1_pages_1_to_743_part_002_pages_16-30.wav --profile en_male_3 -s srt --workers 3

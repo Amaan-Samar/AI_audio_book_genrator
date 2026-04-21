@@ -1,1 +1,0 @@
-cd /d C:\Users\Amaan\Documents\github_projects\tts_project\data && python subtitles.py
